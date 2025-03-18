@@ -1,4 +1,4 @@
-![United Security Providers - Our missin is your digital security! Open Source enhances our zero trust security solutions, empovering customers with innovatio, trust, and a strong security community.](/images/usp-mission.png)
+![United Security Providers - Our missin is your digital security! Open Source enhances our zero trust security solutions, empovering customers with innovatio, trust, and a strong security community.](/images/Githhub-Header-United-Security-Providers-AG-v2.jpg)
 
 # Welcome to United Security Providers
 
